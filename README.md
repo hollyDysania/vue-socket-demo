@@ -20,4 +20,4 @@ npm run dev
 
 ## 效果
 
-![test](http://github.com/hollyDysania/vue-socket-demo/raw/master/static/test.gif)
+![test](https://raw.githubusercontent.com/hollyDysania/vue-socket-demo/master/static/test.gif)
